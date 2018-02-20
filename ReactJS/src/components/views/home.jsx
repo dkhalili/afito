@@ -98,7 +98,7 @@ export default class Home extends Component {
 
       <div className="col-md-5">
         <div className="home-image4">
-          <img src="http://www.arprentalhomes.com/site/wp-content/uploads/2016/11/AdobeStock_91577858.jpeg" height="450px"/>
+          <img src="http://www.arlington-tx.gov/codecompliance/wp-content/uploads/sites/36/2016/05/Tenants-Rights-03.jpg" height="450px"/>
         </div>            
       </div>
 
